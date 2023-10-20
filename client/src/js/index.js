@@ -1,8 +1,8 @@
 // Import necessary modules and components
 import { Workbox } from "workbox-window";
 import Editor from "./editor";
-import "./database"; // Import the database module
-import "../css/style.css"; // Import styles
+import "./database"; 
+import "../css/style.css"; 
 
 // Find the HTML element with the ID "main" and clear its content
 const main = document.querySelector("#main");

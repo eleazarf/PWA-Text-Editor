@@ -1,5 +1,6 @@
 // Import the openDB method from "idb" for IndexedDB interactions
 
+
 // Initialize the 'jate' IndexedDB database
 const initdb = async () =>
   openDB("jate", 1, {
