@@ -5,7 +5,7 @@ A downloadable progressive web application text editor called J.A.T.E.
 
 - [Description](#description)
 
-- [Live-URL](#live-url)
+- [Heroku-Deployment](#heroku-deployment)
 
 - [Installation](#installation)
 
@@ -26,8 +26,9 @@ This application was purposefully created to demonstrate and enhance proficiency
 
 * User-Friendly Installation: Event handlers are incorporated to streamline the installation process via an install button, making it convenient for users to add the application to their personal stacks and utilize it offline.
 
-## Live URL
+## Heroku Deployment
 
+https://pwa-text-editor-eleazarf-48d63417915e.herokuapp.com/
 
 ## Installation
 
